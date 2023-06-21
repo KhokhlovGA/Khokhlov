@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 barabudidabudirabuday
 1212
 =======
 barabudaydabudirabuday
 onewtoonetwo
 ##hat
->>>>>>> 1cceb20 (added hat)
